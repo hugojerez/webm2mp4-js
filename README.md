@@ -36,7 +36,7 @@ Start by including the module in your program.
 const webm2mp4 = require('webm2mp4-js')
 ```
 
-You then can use `webm2m4.TransboxingMediaRecorder` exactly as if it were native `MediaRecorder`.
+You then can use `webm2mp4.TransboxingMediaRecorder` exactly as if it were native `MediaRecorder`.
 
 For example
 ```js
